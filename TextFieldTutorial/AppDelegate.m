@@ -12,6 +12,8 @@
 
 // This change can only be seen in Remote branch
 
+// This change can be pulled from new Branch only
+
 @interface AppDelegate ()
 
 @end
